@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>高級素材を使用した焼きたてパン｜メロンパン専門店 Melon de melon（メロンドゥメロン）</title>
+  </head>
+  <body>
+  <img src="http://www.melon-de-melon.com/">
+    <h1></h1>
+  </body>
+</html>
